@@ -1,2 +1,2 @@
 # anidigts-1
-this is my first repositry 
+this is my first repository
